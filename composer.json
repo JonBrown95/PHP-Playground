@@ -1,0 +1,17 @@
+{
+    "name": "jonny/hello-world",
+    "description": "My first PHP project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jonny\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JonBrown95",
+            "email": "126886504+JonBrown95@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
